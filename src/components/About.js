@@ -14,10 +14,10 @@ const skills = [
   { type: "CSS", level: 85 },
 ];
 const color = {
-  bar: "#0078ff",
+  bar: "#1ea0d4",
   title: {
     text: "#111",
-    background: "#0052b0",
+    background: "#1389b4",
     fontSize: "18px",
   },
 };
@@ -53,6 +53,7 @@ function About() {
               <p>
                 <strong>Phone:</strong> +917814039240
               </p>
+
             </div>
           </div>
           <div className="skills">

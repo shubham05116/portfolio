@@ -17,12 +17,12 @@
   position: relative;
 }
 .p__item:hover {
-  background-color: rgb(61, 151, 255);
+  background-color: rgb(61, 197, 255);
   top: -5px;
 }
 .p__item:hover .p_btn a {
   background-color: white;
-  color: rgb(0, 120, 255);
+  color: rgb(0, 213, 255);
 }
 .p__item:hover .p__title,
 .p__item:hover .p__info {
@@ -75,7 +75,7 @@
   padding: 9px 0;
   color: white;
   border-radius: 3px;
-  background-color: rgb(0, 120, 255);
+  background-color: rgb(0, 213, 255);
 }
 
 .p_btn a:hover {

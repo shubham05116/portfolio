@@ -7,8 +7,8 @@
 }
 .quote {
   background: linear-gradient(
-      rgba(49, 64, 224, 0.667),
-      rgba(41, 108, 223, 0.658)
+      rgba(49, 186, 224, 0.667),
+      rgba(41, 202, 223, 0.658)
     ),
     url(https://images.unsplash.com/photo-1531482615713-2afd69097998?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
   background-position: 60%;
@@ -35,8 +35,8 @@
 }
 .git {
   background: linear-gradient(
-      rgba(49, 64, 224, 0.667),
-      rgba(41, 108, 223, 0.658)
+      rgba(49, 183, 224, 0.667),
+      rgba(41, 193, 223, 0.658)
     ),
     url(https://images.unsplash.com/photo-1629905679177-4c4e2623654f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1518&q=80);
   background-position: 60%;
@@ -86,7 +86,7 @@
 }
 .c_info i {
   margin: 7px 0;
-  color: #0078ff;
+  color: #00c3ff;
 }
 .c_info i span {
   margin-left: 15px;
@@ -102,7 +102,7 @@
 .smedia .fa {
   margin-right: 15px;
   font-size: 45px;
-  color: #0078ff;
+  color: #00d0ff;
 }
 
 @media only screen and (max-width: 770px) {
