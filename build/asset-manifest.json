@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1aaeeb37.css",
+    "main.js": "/static/js/main.59f4cbb1.js",
+    "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
+    "static/media/netflixgpt.png": "/static/media/netflixgpt.48a44b27f4c7854bc30f.png",
+    "static/media/weatherapp.png": "/static/media/weatherapp.bc5eefb300f6bb6e886c.png",
+    "static/media/BlogPost.png": "/static/media/BlogPost.96136f97738a5b7a7669.png",
+    "static/media/cart.png": "/static/media/cart.695dc604b03f6762f401.png",
+    "static/media/about.jpg": "/static/media/about.92fcb2894ad74764af89.jpg",
+    "static/media/todolist.png": "/static/media/todolist.86c52cf91ceb9dcec6d6.png",
+    "index.html": "/index.html",
+    "main.1aaeeb37.css.map": "/static/css/main.1aaeeb37.css.map",
+    "main.59f4cbb1.js.map": "/static/js/main.59f4cbb1.js.map",
+    "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aaeeb37.css",
+    "static/js/main.59f4cbb1.js"
+  ]
+}
