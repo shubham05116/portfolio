@@ -17,12 +17,7 @@ const projects = [
     des: "Blog Post offers user-friendly authentication for login and signup. Once logged in, users can create, edit, and delete their blog posts, fostering a seamless content management experience. This application empowers users to share their thoughts and easily manage their blog content within a user-friendly interface.",
     githubLink: "https://github.com/shubham05116/blogpost/",
   },
-  {
-    photo: todolist,
-    title: "Todo List",
-    des: "Simple Todo List with bueatiful UI and provies features like Add task , Remove task and Move Taks Up and Down. Techstack used HTML, CSS and JavaScritp ",
-    githubLink: "https://github.com/shubham05116/React-JS-Projects/tree/main/todo-app",
-  },
+ 
   {
     photo: netflixGPT,
     title: "Netflix GPT",
@@ -34,6 +29,12 @@ const projects = [
     title: "Weather App",
     des: "This is Weather web app in which you can watch weather of your city and also search for the weather you are interested in.This is a User friendly interface that allows you to search for weather information on your browser.",
     githubLink: "https://github.com/shubham05116/climaticy",
+  },
+  {
+    photo: todolist,
+    title: "Todo List",
+    des: "Simple Todo List with beautiful UI and provides features like Add task , Remove task and Move Tasks Up and Down. Techstack used React.js ",
+    githubLink: "https://github.com/shubham05116/React-JS-Projects/tree/main/todo-app",
   },
   {
     photo: cart,

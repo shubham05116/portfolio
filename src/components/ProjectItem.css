@@ -9,11 +9,11 @@
   color: aliceblue;
   margin: 0 0.5rem;
   margin-bottom: 1rem;
-  background-color: rgb(254, 255, 255);
+  background-color: rgb(0, 0, 0);
   box-shadow: 10px 10px 7px -10px rgb(0 0 0 / 30%);
   overflow: hidden;
   transition: 0.4s ease;
-  color: #333;
+  color: #f8f8f8;
   position: relative;
 }
 .p__item:hover {
@@ -39,7 +39,7 @@
 .p__info {
   padding: 0 1rem;
   margin-top: 1rem;
-  color: #333;
+  color: #ffffff;
 }
 .p__title {
   margin-top: 50px;

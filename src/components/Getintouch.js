@@ -32,12 +32,11 @@ export default function Getintouch() {
                 <a href="https://github.com/shubham05116" target="_blank">
                   <i className="fa fa-github"></i>
                 </a>
-                <a
-                  href=""
-                  target="_blank"
-                >
-                
+                <a href="https://www.instagram.com/shubham__ks/" target="_blank">
+                  <i className="fa fa-instagram"></i>
                 </a>
+               
+               
               </div>
             </div>
           </div>

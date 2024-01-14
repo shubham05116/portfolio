@@ -32,6 +32,7 @@ $(function () {
   });
 });
 function About() {
+  const resumeFilePath= "https://drive.google.com/file/d/1z37_BsZJZ2drx8NGc03YWm7--IEQh74m/view?usp=sharing"
   return (
     <div className="about  component__space" id="ABOUT">
       <div className="container about_cont">
@@ -42,8 +43,8 @@ function About() {
             </div>
             <div className="about__data">
               <p>
-                <strong>Name:</strong>Shubham Kumar Singh
-              </p>
+              <strong>Name:</strong>Shubham Kumar Singh
+                         </p>
               <p>
                 <strong>Profile:</strong> Student, Web Developer
               </p>
@@ -52,6 +53,11 @@ function About() {
               </p>
               <p>
                 <strong>Phone:</strong> +917814039240
+              </p>
+              <p>
+              <a href={resumeFilePath} download="Resume.pdf">
+                <button>Resume</button>
+              </a>  
               </p>
 
             </div>
@@ -76,7 +82,7 @@ function About() {
           <div className="me_cont">
             <p>
               I’m Shubham Kumar Singh; I'm a Student and Web Developer. I'm
-              currently pursuing B.E in CS from Chandigarh Group of Colleges Punjab.
+              currently in Final Year B.Tech in CSE from Chandigarh Group of Colleges ,Punjab.
             </p>
             <p>
               I have experience in HTML, CSS, JavaScript, React.js and
